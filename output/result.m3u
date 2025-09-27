@@ -40,28 +40,28 @@ tvbus://78SiCss86kpScVsNihaFWgQ9Cft65wkk2JVpLCscC7APWQActy#tvbus://7PmVCkytuSmkF
 tvbus://7NakQZSucd23WYDX8986cjb24ANBmztDEPmUjRqb3Mgj5jy1BG#tvbus://7ywiNuVZ4qW8bfiYvp3qcYZtPpyzx3GjFPunidPDwDfQ6obeiM#tvbus://6vtDBikzU3XBDu2zR9zuRyMbyWqywaiyoFA9itAsvDMi9MfwyB#tvbus://6dbAAHDeJoPwCS4vCThp8TfzhdRULTRdW3Xzazt1Rh6wGDHLrWWbUyaAHi1AS#tvbus://5fXD51RG6bueU7Fx1GrUah7cKmmY19PAXfDsrxN64XLm4UbEBRYZMtE9MQ9tY#tvbus://5qevPYogWrnDTGdxuYfC9N7JuGMmR8pyWKvrZzgme2LEUdv974ZeG6KqXYWAZ&replay=1&days=7
 
 #EXTGRP:央卫秒开,
-#EXTINF:-1 group-title="央卫秒开",吉林卫视
-http://php.cqshushu.ggff.net/jzb.php?id=jlws&公众号【医工学习日志】&replay=1&days=7
+#EXTINF:-1 group-title="央卫秒开",浙江卫视
+http://php.cqshushu.ggff.net/jzb.php?id=zjws&公众号【医工学习日志】&replay=1&days=7
 #EXTINF:-1 group-title="央卫秒开",江西卫视
 http://php.cqshushu.ggff.net/jzb.php?id=jxws&公众号【医工学习日志】&replay=1&days=7
-#EXTINF:-1 group-title="央卫秒开",广东卫视
-http://php.cqshushu.ggff.net/jzb.php?id=gdws&公众号【医工学习日志】&replay=1&days=7
-#EXTINF:-1 group-title="央卫秒开",青海卫视
-http://php.cqshushu.ggff.net/jzb.php?id=qhws&公众号【医工学习日志】&replay=1&days=7
-#EXTINF:-1 group-title="央卫秒开",陕西卫视
-http://php.cqshushu.ggff.net/jzb.php?id=sxws&公众号【医工学习日志】&replay=1&days=7
 #EXTINF:-1 group-title="央卫秒开",江苏卫视
 http://php.cqshushu.ggff.net/jzb.php?id=jsws&公众号【医工学习日志】&replay=1&days=7
 #EXTINF:-1 group-title="央卫秒开",海南卫视
 http://php.cqshushu.ggff.net/jzb.php?id=hainws&公众号【医工学习日志】&replay=1&days=7
+#EXTINF:-1 group-title="央卫秒开",陕西卫视
+http://php.cqshushu.ggff.net/jzb.php?id=sxws&公众号【医工学习日志】&replay=1&days=7
 #EXTINF:-1 group-title="央卫秒开",河南卫视
 http://php.cqshushu.ggff.net/jzb.php?id=henws&公众号【医工学习日志】&replay=1&days=7
-#EXTINF:-1 group-title="央卫秒开",湖北卫视
-http://php.cqshushu.ggff.net/jzb.php?id=hbws&公众号【医工学习日志】&replay=1&days=7
+#EXTINF:-1 group-title="央卫秒开",广东卫视
+http://php.cqshushu.ggff.net/jzb.php?id=gdws&公众号【医工学习日志】&replay=1&days=7
+#EXTINF:-1 group-title="央卫秒开",吉林卫视
+http://php.cqshushu.ggff.net/jzb.php?id=jlws&公众号【医工学习日志】&replay=1&days=7
 #EXTINF:-1 group-title="央卫秒开",东方卫视
 http://php.cqshushu.ggff.net/jzb.php?id=dfws&公众号【医工学习日志】&replay=1&days=7
-#EXTINF:-1 group-title="央卫秒开",浙江卫视
-http://php.cqshushu.ggff.net/jzb.php?id=zjws&公众号【医工学习日志】&replay=1&days=7
+#EXTINF:-1 group-title="央卫秒开",湖北卫视
+http://php.cqshushu.ggff.net/jzb.php?id=hbws&公众号【医工学习日志】&replay=1&days=7
+#EXTINF:-1 group-title="央卫秒开",青海卫视
+http://php.cqshushu.ggff.net/jzb.php?id=qhws&公众号【医工学习日志】&replay=1&days=7
 #EXTINF:-1 group-title="央卫秒开",东方卫视
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/dfws.flv&replay=1&days=7
 #EXTINF:-1 group-title="央卫秒开",湖南卫视
@@ -303,53 +303,51 @@ http://8hb85846je10.vicp.fun:5000/bysid/82&replay=1&days=7
 
 #EXTGRP:香港频道
 #EXTINF:-1 group-title="香港频道",翡翠台
-https://iptv.catvod.com/catvod_com.php?id=jade_twn&token=de783011c820add93ac3a74ddafe5fdceef468d83ed278d57d82b9424f84e1ce%3A1758849504%3AMTcyLjE3Mi44Ny4yNDE%3D&replay=1&days=7
+https://iptv.catvod.com/catvod_com.php?id=jade_twn&token=d53bceccd6cfaa41ac38fc245474725f90bd2ce7a6aba2b376fc21a343e7808b%3A1758935662%3AMTcyLjE4Mi4yMTIuNTM%3D&replay=1&days=7
 
 #EXTGRP:央视频道
 #EXTINF:-1 group-title="央视频道",CCTV-6
-https://iptv.catvod.com/catvod_com.php?id=cctv6&token=7a93ca06a16fd6a8a1b13b86dbe2529f2cd069fec59fa4b54022f6181befa3e6%3A1758849504%3AMTcyLjE3Mi44Ny4yNDE%3D&replay=1&days=7
+https://iptv.catvod.com/catvod_com.php?id=cctv6&token=c22a4f754be215d0de81473e7c963709a2c553f7a2de1748d3ad2ff653ad1739%3A1758935662%3AMTcyLjE4Mi4yMTIuNTM%3D&replay=1&days=7
 
 #EXTGRP:卫视频道
 #EXTINF:-1 group-title="卫视频道",湖南卫视
-https://iptv.catvod.com/catvod_com.php?id=hunan_twn&token=b995a28a50490f01e528691a1c56f1b64a9712e6a012097b318473304bd0e648%3A1758849504%3AMTcyLjE3Mi44Ny4yNDE%3D&replay=1&days=7
+https://iptv.catvod.com/catvod_com.php?id=hunan_twn&token=1505745a8c3871de1473bbdab3046839d0d18207d049dcf2e4350f3a542267dd%3A1758935662%3AMTcyLjE4Mi4yMTIuNTM%3D&replay=1&days=7
 #EXTINF:-1 group-title="卫视频道",浙江卫视
-https://iptv.catvod.com/catvod_com.php?id=zhejiang_twn&token=2e499002b04d6517ee95d616b79589903e3092d5825c8b1dc2a82d3045132316%3A1758849504%3AMTcyLjE3Mi44Ny4yNDE%3D&replay=1&days=7
+https://iptv.catvod.com/catvod_com.php?id=zhejiang_twn&token=e6a70dafcbd03504e04e917af13ee88559435427b8fc6b5f1cbd339d0b7e4061%3A1758935662%3AMTcyLjE4Mi4yMTIuNTM%3D&replay=1&days=7
 #EXTINF:-1 group-title="卫视频道",江苏卫视
-https://iptv.catvod.com/catvod_com.php?id=jiangsu_twn&token=f507343f0eca8c83e0e17a11a0932c11e80bc911bd4220b800fc947028c482d5%3A1758849504%3AMTcyLjE3Mi44Ny4yNDE%3D&replay=1&days=7
+https://iptv.catvod.com/catvod_com.php?id=jiangsu_twn&token=24bb974c294e298416f27324a871a7a4794f1d7d4f88db50f679d5149ee2ef96%3A1758935662%3AMTcyLjE4Mi4yMTIuNTM%3D&replay=1&days=7
 #EXTINF:-1 group-title="卫视频道",深圳卫视
-https://iptv.catvod.com/catvod_com.php?id=shenzhen&token=73de2f49a35d9a251686641eaeee8f1c1fc03e14751e710c0b28376c105d5043%3A1758849504%3AMTcyLjE3Mi44Ny4yNDE%3D&replay=1&days=7
+https://iptv.catvod.com/catvod_com.php?id=shenzhen&token=15528c16aacfdfb7d2a5cabe87ce6ec0ee1f4223ef66aa02d62e995c5c61b75d%3A1758935662%3AMTcyLjE4Mi4yMTIuNTM%3D&replay=1&days=7
 #EXTINF:-1 group-title="卫视频道",广东卫视
-https://iptv.catvod.com/catvod_com.php?id=guangdongweishi_twn&token=9c94614d71e0752191b7e14e26cd8968e8f37f31133df703804c6582d2d989b1%3A1758849504%3AMTcyLjE3Mi44Ny4yNDE%3D&replay=1&days=7
+https://iptv.catvod.com/catvod_com.php?id=guangdongweishi_twn&token=b766b937e5204d8d94bd5beab8a08b48519a84cc17d40e9a1e67aa560762f0c1%3A1758935662%3AMTcyLjE4Mi4yMTIuNTM%3D&replay=1&days=7
 #EXTINF:-1 group-title="卫视频道",北京卫视
-https://iptv.catvod.com/catvod_com.php?id=beijing&token=285663cc511ce42f86378e95ea9342ac8eedc17930a7621bb079bcc9b91ab502%3A1758849504%3AMTcyLjE3Mi44Ny4yNDE%3D&replay=1&days=7
+https://iptv.catvod.com/catvod_com.php?id=beijing&token=344296eaeb8dff53b54bbf78674b45d7120d331d3fbd9c0f5cf14ce4f69c63f3%3A1758935662%3AMTcyLjE4Mi4yMTIuNTM%3D&replay=1&days=7
 #EXTINF:-1 group-title="卫视频道",广西卫视
-https://iptv.catvod.com/catvod_com.php?id=guangxi&token=36517e9d6901b5384eb3b5b3a5af85ee2db41259e8c334f1705d7eb64b76a91c%3A1758849504%3AMTcyLjE3Mi44Ny4yNDE%3D&replay=1&days=7
+https://iptv.catvod.com/catvod_com.php?id=guangxi&token=cd31fc4a8dac94ec71013597c11a21d4f26b5faa322d2f2025030fa0793a8152%3A1758935662%3AMTcyLjE4Mi4yMTIuNTM%3D&replay=1&days=7
 #EXTINF:-1 group-title="卫视频道",湖北卫视
-https://iptv.catvod.com/catvod_com.php?id=hubei&token=7ca1fe7b587d3776aa1697c355e5110725ec124acb68a6ba565992bbff93d482%3A1758849504%3AMTcyLjE3Mi44Ny4yNDE%3D&replay=1&days=7
+https://iptv.catvod.com/catvod_com.php?id=hubei&token=44c90bbeeabe0836c505deba4018e0e15946ec47a0b59e7b0dddcce17ae6c44a%3A1758935662%3AMTcyLjE4Mi4yMTIuNTM%3D&replay=1&days=7
 #EXTINF:-1 group-title="卫视频道",四川卫视
-https://iptv.catvod.com/catvod_com.php?id=sichuan_twn&token=45804e11fd03f80bd93716ef606553e58e88b04d85b62fbfe1035272e0d0d39c%3A1758849504%3AMTcyLjE3Mi44Ny4yNDE%3D&replay=1&days=7
+https://iptv.catvod.com/catvod_com.php?id=sichuan_twn&token=54fe56a37c1a624a47d50dd41940089c0eac909b562075192afa8a017879ed71%3A1758935662%3AMTcyLjE4Mi4yMTIuNTM%3D&replay=1&days=7
 #EXTINF:-1 group-title="卫视频道",东方卫视
-https://iptv.catvod.com/catvod_com.php?id=dongfangweishi_twn&token=f773566cc58ee5b4bc73bfa301b288dea780b1eab83dff249a9a3020faeefa3b%3A1758849504%3AMTcyLjE3Mi44Ny4yNDE%3D&replay=1&days=7
+https://iptv.catvod.com/catvod_com.php?id=dongfangweishi_twn&token=2fb30421ea9fc1122d3266f9ed6d5733dcb69b19a79a82f52d0b68c7afcddd15%3A1758935662%3AMTcyLjE4Mi4yMTIuNTM%3D&replay=1&days=7
 
 #EXTGRP:台湾频道
 #EXTINF:-1 group-title="台湾频道",东森超视
-https://iptv.catvod.com/catvod_com.php?id=ettvsuper&token=2f9f04b7046e8b61fe6a618c56d7d5ba42a10827c189ba3a9fcc7f9cd636339c%3A1758849504%3AMTcyLjE3Mi44Ny4yNDE%3D&replay=1&days=7
+https://iptv.catvod.com/catvod_com.php?id=ettvsuper&token=65e007f0accd68dfc062dfb6492c848f85decd26deac4cd685baf06247df5fd8%3A1758935662%3AMTcyLjE4Mi4yMTIuNTM%3D&replay=1&days=7
 
 #EXTGRP:电影频道
 #EXTINF:-1 group-title="电影频道",Animax
-https://iptv.catvod.com/catvod_com.php?id=Animax&token=c190ce6597643bcd30e33e9f6ee7bf7235786100b97faf69a2b551f498d23771%3A1758849504%3AMTcyLjE3Mi44Ny4yNDE%3D&replay=1&days=7
+https://iptv.catvod.com/catvod_com.php?id=Animax&token=9003cc864125fb23e9becaa013fa2546b0bd72f70b4f427d7ee85c017202fc6a%3A1758935662%3AMTcyLjE4Mi4yMTIuNTM%3D&replay=1&days=7
 
 #EXTGRP:记录频道
 #EXTINF:-1 group-title="记录频道",Discovery Asia
-https://iptv.catvod.com/catvod_com.php?id=discoverytwn_twn&token=fc827dbbf9e20818e1d3fd2ac1ecc63a52af4ef1f66fe782b759068bca9857d0%3A1758849504%3AMTcyLjE3Mi44Ny4yNDE%3D&replay=1&days=7
+https://iptv.catvod.com/catvod_com.php?id=discoverytwn_twn&token=eb2390d5fe99901f4fc4f7c554ad8f5852423a9f4d5c29134f22dbb2f4a14b4c%3A1758935662%3AMTcyLjE4Mi4yMTIuNTM%3D&replay=1&days=7
 
 #EXTGRP:央卫直播①,
 #EXTINF:-1 group-title="央卫直播①",黑龙江卫视
 http://111.43.126.240:9003/hls/6/index.m3u8&replay=1&days=7
 
 #EXTGRP:央卫直播,
-#EXTINF:-1 group-title="央卫直播",浙江卫视
-https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8&replay=1&days=7
 #EXTINF:-1 group-title="央卫直播",CETV1
 http://ygbh.site/php/bfgd.php?id=135&replay=1&days=7
 #EXTINF:-1 group-title="央卫直播",CETV2
@@ -424,6 +422,8 @@ http://ygbh.site/php/bfgd.php?id=115&replay=1&days=7
 http://ygbh.site/php/bfgd.php?id=094&replay=1&days=7
 #EXTINF:-1 group-title="央卫直播",安徽卫视
 http://ygbh.site/php/bfgd.php?id=096&replay=1&days=7
+#EXTINF:-1 group-title="央卫直播",浙江卫视
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8&replay=1&days=7
 #EXTINF:-1 group-title="央卫直播",浙江卫视
 http://sh.lnott.top:880/dx32.m3u8&replay=1&days=7
 #EXTINF:-1 group-title="央卫直播",辽宁卫视
