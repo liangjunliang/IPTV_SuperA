@@ -187,11 +187,11 @@ http://111.43.126.240:9003/hls/87/index.m3u8&replay=1&days=7
 
 #EXTGRP:广东,
 #EXTINF:-1 group-title="广东",广州综合
+http://r.jdshipin.com/snhya&replay=1&days=7
+#EXTINF:-1 group-title="广东",广州综合
 http://php.jdshipin.com:8880/gztv.php?id=zhonghe&replay=1&days=7
 #EXTINF:-1 group-title="广东",广州新闻
 http://php.jdshipin.com:8880/gztv.php?id=xinwen&replay=1&days=7
-#EXTINF:-1 group-title="广东",广州综合
-http://r.jdshipin.com/snhya&replay=1&days=7
 #EXTINF:-1 group-title="广东",广州综合
 http://tencentplaygzrb.gztv.com/sec/zonghes.m3u8&replay=1&days=7
 #EXTINF:-1 group-title="广东",广州新闻
@@ -260,72 +260,6 @@ http://php.jdshipin.com:8880/smt.php?id=j2_twn&replay=1&days=7
 #EXTGRP:大杂烩,
 #EXTINF:-1 group-title="大杂烩",TVB Plus
 http://8hb85846je10.vicp.fun:5000/bysid/82&replay=1&days=7
-
-#EXTGRP:卫视IPV4
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="卫视IPV4",翡翠台
-http://101.35.240.114:88/live.php?id=翡翠台&replay=1&days=7
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视IPV4",湖南卫视
-http://101.35.240.114:88/live.php?id=湖南卫视&replay=1&days=7
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视IPV4",北京卫视
-http://101.35.240.114:88/live.php?id=北京卫视&replay=1&days=7
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视IPV4",深圳卫视
-http://101.35.240.114:88/live.php?id=深圳卫视&replay=1&days=7
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视IPV4",浙江卫视
-http://101.35.240.114:88/live.php?id=浙江卫视&replay=1&days=7
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视IPV4",江苏卫视
-http://101.35.240.114:88/live.php?id=江苏卫视&replay=1&days=7
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="卫视IPV4",陕西卫视
-http://101.35.240.114:88/live.php?id=陕西卫视&replay=1&days=7
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视IPV4",湖北卫视
-http://101.35.240.114:88/live.php?id=湖北卫视&replay=1&days=7
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视IPV4",内蒙古卫视
-http://101.35.240.114:88/live.php?id=内蒙古卫视&replay=1&days=7
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视IPV4",江西卫视
-http://101.35.240.114:88/live.php?id=江西卫视&replay=1&days=7
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视IPV4",广东卫视
-http://101.35.240.114:88/live.php?id=广东卫视&replay=1&days=7
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视IPV4",东方卫视
-http://101.35.240.114:88/live.php?id=东方卫视&replay=1&days=7
-#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视IPV4",西藏卫视
-http://101.35.240.114:88/live.php?id=西藏卫视&replay=1&days=7
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视IPV4",新疆卫视
-http://101.35.240.114:88/live.php?id=新疆卫视&replay=1&days=7
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视IPV4",青海卫视
-http://74.48.192.96:82/live.php?id=青海卫视&replay=1&days=7
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视IPV4",东南卫视
-http://101.35.240.114:88/live.php?id=东南卫视&replay=1&days=7
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视IPV4",吉林卫视
-http://74.48.192.96:82/live.php?id=吉林卫视&replay=1&days=7
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视IPV4",四川卫视
-http://74.48.192.96:82/live.php?id=四川卫视&replay=1&days=7
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视IPV4",天津卫视
-http://74.48.192.96:82/live.php?id=天津卫视&replay=1&days=7
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视IPV4",安徽卫视
-http://101.35.240.114:88/live.php?id=安徽卫视&replay=1&days=7
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视IPV4",山东卫视
-http://74.48.192.96:82/live.php?id=山东卫视&replay=1&days=7
-#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视IPV4",山西卫视
-http://74.48.192.96:82/live.php?id=山西卫视&replay=1&days=7
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视IPV4",广西卫视
-http://74.48.192.96:82/live.php?id=广西卫视&replay=1&days=7
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视IPV4",河北卫视
-http://74.48.192.96:82/live.php?id=河北卫视&replay=1&days=7
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视IPV4",河南卫视
-http://74.48.192.96:82/live.php?id=河南卫视&replay=1&days=7
-#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="卫视IPV4",甘肃卫视
-http://74.48.192.96:82/live.php?id=甘肃卫视&replay=1&days=7
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视IPV4",贵州卫视
-http://74.48.192.96:82/live.php?id=贵州卫视&replay=1&days=7
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视IPV4",辽宁卫视
-http://74.48.192.96:82/live.php?id=辽宁卫视&replay=1&days=7
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视IPV4",重庆卫视
-http://74.48.192.96:82/live.php?id=重庆卫视&replay=1&days=7
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视IPV4",黑龙江卫视
-http://74.48.192.96:82/live.php?id=黑龙江卫视&replay=1&days=7
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视IPV4",海南卫视
-http://74.48.192.96:82/live.php?id=海南卫视&replay=1&days=7
-#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" group-title="卫视IPV4",大湾区卫视
-http://74.48.192.96:82/live.php?id=大湾区卫视&replay=1&days=7
 
 #EXTGRP:黑龙江,
 #EXTINF:-1 group-title="黑龙江",黑龙江卫视
