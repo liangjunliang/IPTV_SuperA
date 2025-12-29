@@ -327,7 +327,3 @@ http://74.48.192.96:82/live.php?id=海南卫视&replay=1&days=7
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" group-title="卫视IPV4",大湾区卫视
 http://74.48.192.96:82/live.php?id=大湾区卫视&replay=1&days=7
 
-#EXTGRP:黑龙江,
-#EXTINF:-1 group-title="黑龙江",黑龙江卫视
-http://111.43.126.240:9003/hls/6/index.m3u8&replay=1&days=7
-
