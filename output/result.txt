@@ -216,6 +216,3 @@ TVB Plus,http://8hb85846je10.vicp.fun:5000/bysid/82
 海南卫视,http://101.35.240.114:88/live.php?id=海南卫视
 大湾区卫视,http://101.35.240.114:88/live.php?id=大湾区卫视
 
-Sports#genre#
-CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
-
