@@ -187,11 +187,11 @@ http://111.43.126.240:9003/hls/87/index.m3u8&replay=1&days=7
 
 #EXTGRP:广东,
 #EXTINF:-1 group-title="广东",广州综合
-http://r.jdshipin.com/snhya&replay=1&days=7
-#EXTINF:-1 group-title="广东",广州综合
 http://php.jdshipin.com:8880/gztv.php?id=zhonghe&replay=1&days=7
 #EXTINF:-1 group-title="广东",广州新闻
 http://php.jdshipin.com:8880/gztv.php?id=xinwen&replay=1&days=7
+#EXTINF:-1 group-title="广东",广州综合
+http://r.jdshipin.com/snhya&replay=1&days=7
 #EXTINF:-1 group-title="广东",广州综合
 http://tencentplaygzrb.gztv.com/sec/zonghes.m3u8&replay=1&days=7
 #EXTINF:-1 group-title="广东",广州新闻
@@ -210,8 +210,6 @@ http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8&replay=1&day
 https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8&replay=1&days=7
 
 #EXTGRP:港澳台,
-#EXTINF:-1 group-title="港澳台",广东珠江
-http://cdn2.163189.xyz/live/gdzj/stream.m3u8&replay=1&days=7
 #EXTINF:-1 group-title="港澳台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8&replay=1&days=7
 #EXTINF:-1 group-title="港澳台",香港卫视
@@ -228,6 +226,8 @@ http://php.jdshipin.com:8880/smt.php?id=pearl_twn&replay=1&days=7
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt&replay=1&days=7
 #EXTINF:-1 group-title="港澳台",无线新闻台
 http://php.jdshipin.com:8880/smt.php?id=inews_twn&replay=1&days=7
+#EXTINF:-1 group-title="港澳台",广东珠江
+http://cdn2.163189.xyz/live/gdzj/stream.m3u8&replay=1&days=7
 #EXTINF:-1 group-title="港澳台",广东体育
 http://cdn2.163189.xyz/live/gdty/stream.m3u8&replay=1&days=7
 #EXTINF:-1 group-title="港澳台",娱乐新闻台
@@ -260,6 +260,24 @@ http://php.jdshipin.com:8880/smt.php?id=j2_twn&replay=1&days=7
 #EXTGRP:大杂烩,
 #EXTINF:-1 group-title="大杂烩",TVB Plus
 http://8hb85846je10.vicp.fun:5000/bysid/82&replay=1&days=7
+
+#EXTGRP:上海电视
+#EXTINF:-1 tvg-name="东方卫视" group-title="上海电视",东方卫视
+http://iptv.catvod.com/1?t=1783315411&token=3aca0bae7897944ace19f17f53ee35760c58d0361b667a62bfb8faf730b395a6&replay=1&days=7
+
+#EXTGRP:广东电视
+#EXTINF:-1 tvg-id="51" tvg-name="大湾区卫视" group-title="广东电视",大湾区卫视
+https://iptv.catvod.com/gdtv?id=51&t=1783308211&tk=34yL0K8S2hIXYHstZTzPmGgHswSg7TGBGrlssnZD3eo&replay=1&days=7
+#EXTINF:-1 tvg-id="47" tvg-name="广东体育" group-title="广东电视",广东体育
+https://iptv.catvod.com/gdtv?id=47&t=1783308211&tk=eBa5n0PT2cUYCRoiNrs22UUacZPPEc9YDNxp3JvdB4c&replay=1&days=7
+#EXTINF:-1 tvg-id="43" tvg-name="广东卫视" group-title="广东电视",广东卫视
+https://iptv.catvod.com/gdtv?id=43&t=1783308211&tk=_nXcf4vFWXjJDAtmTNTBUshgFnHEV6fXPR3X8OOabyc&replay=1&days=7
+#EXTINF:-1 tvg-id="45" tvg-name="广东新闻" group-title="广东电视",广东新闻
+https://iptv.catvod.com/gdtv?id=45&t=1783308211&tk=O1rXoHTBZi8fl3NuEOGscF7IqbuWPKm-nRNm904N0PY&replay=1&days=7
+#EXTINF:-1 tvg-id="48" tvg-name="广东民生" group-title="广东电视",广东民生
+https://iptv.catvod.com/gdtv?id=48&t=1783308211&tk=oymP121Teq4gIBGbMSRlppI2CxMwGHV5Cjbc2hqr58s&replay=1&days=7
+#EXTINF:-1 tvg-id="44" tvg-name="广东珠江" group-title="广东电视",广东珠江
+https://iptv.catvod.com/gdtv?id=44&t=1783308211&tk=rDxzpexkg7NW1HXGUHLIpLnzFL3BqFGI5hBrg7-3IK0&replay=1&days=7
 
 #EXTGRP:💫央卫直播,
 #EXTINF:-1 group-title="💫央卫直播",东方卫视
