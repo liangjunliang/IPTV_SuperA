@@ -94,9 +94,9 @@ NewTV,#genre#
 超级综艺,http://111.43.126.240:9003/hls/87/index.m3u8
 
 广东,#genre#
+广州综合,http://r.jdshipin.com/snhya
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
-广州综合,http://r.jdshipin.com/snhya
 广州综合,http://tencentplaygzrb.gztv.com/sec/zonghes.m3u8
 广州新闻,http://tencentplaygzrb.gztv.com/sec/xinwen.m3u8
 佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
@@ -109,6 +109,8 @@ NewTV,#genre#
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 
 港澳台,#genre#
+广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
@@ -117,8 +119,6 @@ NewTV,#genre#
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
 无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 千禧经典台,http://php.jdshipin.com:8880/xsj.php?id=tvb-classic
 千禧经典台, http://php.jdshipin.com/smt.php?id=Tvbclassic
@@ -135,17 +135,6 @@ J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 
 大杂烩,#genre#
 TVB Plus,http://8hb85846je10.vicp.fun:5000/bysid/82
-
-上海电视#genre#
-东方卫视,http://iptv.catvod.com/1?t=1783315411&token=3aca0bae7897944ace19f17f53ee35760c58d0361b667a62bfb8faf730b395a6
-
-广东电视#genre#
-大湾区卫视,https://iptv.catvod.com/gdtv?id=51&t=1783308211&tk=34yL0K8S2hIXYHstZTzPmGgHswSg7TGBGrlssnZD3eo
-广东体育,https://iptv.catvod.com/gdtv?id=47&t=1783308211&tk=eBa5n0PT2cUYCRoiNrs22UUacZPPEc9YDNxp3JvdB4c
-广东卫视,https://iptv.catvod.com/gdtv?id=43&t=1783308211&tk=_nXcf4vFWXjJDAtmTNTBUshgFnHEV6fXPR3X8OOabyc
-广东新闻,https://iptv.catvod.com/gdtv?id=45&t=1783308211&tk=O1rXoHTBZi8fl3NuEOGscF7IqbuWPKm-nRNm904N0PY
-广东民生,https://iptv.catvod.com/gdtv?id=48&t=1783308211&tk=oymP121Teq4gIBGbMSRlppI2CxMwGHV5Cjbc2hqr58s
-广东珠江,https://iptv.catvod.com/gdtv?id=44&t=1783308211&tk=rDxzpexkg7NW1HXGUHLIpLnzFL3BqFGI5hBrg7-3IK0
 
 💫央卫直播,#genre#
 东方卫视,http://111.170.157.210:1081/?id=651632648&auth=95d4c11f9a4bc430bf05d5da4ace7ccb8e3b6074f417187c939ab4d40bbe6ab2282f8bfc6098ecb7139fb187c89b9ae1
@@ -192,38 +181,4 @@ TVB Plus,http://8hb85846je10.vicp.fun:5000/bysid/82
 云南卫视,http://111.170.157.210:3099/liveinfo.ysp.cctv.cn/ysp/a1adffe39a8f3881298917fc6b9e999b:8ae6b8833791cb55d7aaaa4627d40e65b0e264860d9e4e3fb5679fd94355d06c8364912950d3d3c8b9e311fe17daf519f94e6d18ac7309618710c84577dcf3c870cf2a41176f736d6f234b8286828ec178a4f7b8d7a4b793ef6f32f4e01f34e523a5c89bcf70dcbcb406267972244519
 山西卫视,http://111.170.157.210:3099/liveinfo.ysp.cctv.cn/ysp/8108d034e1d1e17c816d1a99a66182b9:42e6ee96c36e08f1c9ca4921edfbde3fff4d887d31a28c25188b1feedb8a1ce674649bac4e65cf25c406dcadcb37ba04bd9762702f9e28c15cb4daf480fab4cdc66ec7cb66cbe4d5daf2149c060ff23117c2cbc1450e04fea03f52f640f1ba252fb5c7b414a15d1c9fe1841a49a27b3b
 新疆卫视,http://111.170.157.210:3099/liveinfo.ysp.cctv.cn/ysp/a922ff60a251745a1df25e45e9bb271e:53c9b9a6d1c1d0ace0b2a15e1caebc9e6773508c7988ade56e7fc32a1224e029cd1f82e41a28b1ac38cf6d67d5c216b68cf8cd58213519ced48c6d1fcf476c2cb31de74dcd3014f85e9a2f177203a55e07cde69bb48f00dceb30816a6096ee61dad35a936d1d7e761db6d15615f2cba5
-
-卫视IPV4#genre#
-翡翠台,http://101.35.240.114:88/live.php?id=翡翠台
-湖南卫视,http://101.35.240.114:88/live.php?id=湖南卫视
-北京卫视,http://101.35.240.114:88/live.php?id=北京卫视
-深圳卫视,http://101.35.240.114:88/live.php?id=深圳卫视
-浙江卫视,http://101.35.240.114:88/live.php?id=浙江卫视
-江苏卫视,http://101.35.240.114:88/live.php?id=江苏卫视
-陕西卫视,http://101.35.240.114:88/live.php?id=陕西卫视
-湖北卫视,http://101.35.240.114:88/live.php?id=湖北卫视
-内蒙古卫视,http://101.35.240.114:88/live.php?id=内蒙古卫视
-江西卫视,http://101.35.240.114:88/live.php?id=江西卫视
-广东卫视,http://101.35.240.114:88/live.php?id=广东卫视
-东方卫视,http://101.35.240.114:88/live.php?id=东方卫视
-西藏卫视,http://101.35.240.114:88/live.php?id=西藏卫视
-新疆卫视,http://101.35.240.114:88/live.php?id=新疆卫视
-青海卫视,http://101.35.240.114:88/live.php?id=青海卫视
-东南卫视,http://101.35.240.114:88/live.php?id=东南卫视
-吉林卫视,http://101.35.240.114:88/live.php?id=吉林卫视
-四川卫视,http://101.35.240.114:88/live.php?id=四川卫视
-天津卫视,http://101.35.240.114:88/live.php?id=天津卫视
-安徽卫视,http://101.35.240.114:88/live.php?id=安徽卫视
-山东卫视,http://101.35.240.114:88/live.php?id=山东卫视
-山西卫视,http://101.35.240.114:88/live.php?id=山西卫视
-广西卫视,rtmp://live.gxrb.com.cn/hls/a23
-河北卫视,http://101.35.240.114:88/live.php?id=河北卫视
-河南卫视,http://101.35.240.114:88/live.php?id=河南卫视
-甘肃卫视,http://101.35.240.114:88/live.php?id=甘肃卫视
-贵州卫视,http://101.35.240.114:88/live.php?id=贵州卫视
-辽宁卫视,http://101.35.240.114:88/live.php?id=辽宁卫视
-重庆卫视,http://101.35.240.114:88/live.php?id=重庆卫视
-黑龙江卫视,http://101.35.240.114:88/live.php?id=黑龙江卫视
-海南卫视,http://101.35.240.114:88/live.php?id=海南卫视
-大湾区卫视,http://101.35.240.114:88/live.php?id=大湾区卫视
 
